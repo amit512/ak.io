@@ -3,3 +3,9 @@ window.addEventListener('scroll', function () {
     let windowPosition = window.scrollY > 0;
     nav.classList.toggle('scrolling-active', windowPosition);
 })
+
+
+
+function myFunction() {
+    alert("Your message has been sent..");
+  }
