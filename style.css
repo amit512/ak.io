@@ -130,6 +130,9 @@ section .title::after{
     color: #fff;
     
 }
+.scrolling-active .navbar .menu li a:hover{
+    color: #111;
+}
 /*scrolling end*/
 .max-width{
     max-width: 1300px;
@@ -623,3 +626,25 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+/*contact logo*/
+.logo .left a img{
+    width: 8%;
+    height: 8%;
+    display: inline-block;
+    text-align: center;
+}
+.logo .right a img{
+    width: 8%;
+    height: 8%;
+    display: inline-block;
+    text-align: center;
+}
+.logo .right a img:hover{
+    opacity: 0.5;
+}
+.logo .left a img:hover{
+    opacity: 0.5;
+}
+
+

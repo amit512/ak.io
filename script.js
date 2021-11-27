@@ -9,3 +9,10 @@ window.addEventListener('scroll', function () {
 function myFunction() {
     alert("Your message has been sent..");
   }
+  function myfunction1() {
+    alert("Sorry for that but\nPage is under develop");
+  }
+
+  function myfunction2() {
+    alert("Sorry for that but\nPage is under develop");
+  }
